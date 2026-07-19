@@ -1,2 +1,2 @@
-# JINKINYO
+# DMnote skin Stellive
 ;)
