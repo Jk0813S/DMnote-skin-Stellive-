@@ -11,6 +11,7 @@ DMnote skin 기본 세팅 (StelLive Arahashi Tabi.ver)
 - "키 카운터 표시" 켜기
 - "커스텀 CSS 활성화" 켜기
 - "JS 플러그인 활성화" 켜기
+
 나머지 값은 원하는대로
 
 
