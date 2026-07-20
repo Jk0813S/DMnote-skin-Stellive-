@@ -1,0 +1,139 @@
+
+/* inactive -> 비활성화 상태 | active -> 활성화 상태 */
+/* keyframes -> 키를 눌렀을때 애니메이션(밝아 졌다 어두워졌다효과) */
+
+@keyframes pulse {
+  0%,
+  100% {
+    box-shadow: 0px 0px 4px #2bff6e;
+  }
+  80% {
+    box-shadow: 0px 0px 12px #2bff6e;
+  }
+}
+
+[data-state="active"] {
+  animation: pulse 0.5s ease-in-out infinite;
+}
+
+
+
+/* 기본 설정 값 */
+
+[data-state="inactive"],
+[data-state="active"] {
+  --key-radius: 7px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "YeogiOttaeJalnan";
+  /* font-family: "Bauhaus 93"; */
+  transition: 0.07s ease-in-out;
+}
+ 
+[data-state="inactive"] {
+  --key-bg: transparent;
+  --key-border: 3px solid #7b7b7b;
+  --key-text-color: #b1b1b1;
+  /* box-shadow: 0px 4px 0px #7b7b7b; */
+}
+
+
+
+/* 키 설정 값 */
+
+.key[data-state="inactive"] {
+  --key-border: 3px solid #003e1b;
+  --key-text-color: #545454;
+  box-shadow: 0px 0px 4px #003e1b, 0px 0px 4px #003e1b;
+}
+
+/* background 의 url 값 변경시 이미지 변경 가능 (단 이미지는 주소가 변하지 않는 값이여야 함)*/
+
+.key[data-state="active"] {
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2-IKG3pbryoepUndiMutd4jmwm1yHgICkDh_SyFQcvw&s") center/cover no-repeat !important;
+  transition-property: box-shadow, text-shadow, color, border-color !important;
+  --key-border: 3px solid #00e35b;
+  --key-text-color: #3ffd81;
+  text-shadow: 0px 0px 3px #00e35b;
+  box-shadow: 3px 5px 10px #007941, 3px 5px 10px #007941;
+}
+/*
+background: url("") center/cover no-repeat !important;
+*/
+.key .counter[data-counter-state="inactive"] {
+  --counter-color: #626262;
+}
+
+
+
+/* 사이드/라인 키 설정 값 */
+
+.line[data-state="inactive"] {
+  --key-bg: transparent;
+  --key-border: 3px solid #616161;
+  --key-text-color: #b1b1b1;
+  /* box-shadow: 0px 4px 0px #7b7b7b; */
+}
+
+/* background 의 url 값 변경시 이미지 변경 가능 (단 이미지는 주소가 변하지 않는 값이여야 함)*/
+
+.line1[data-state="active"] {
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALbSYiwBMuz44ZecKLwAm8J4SW9Nynu0lwGnQpo_v5w&s=10") center/cover no-repeat !important;
+  transition-property: box-shadow, text-shadow, color, border-color !important;
+  --key-border: 3px solid #608b71;
+  --key-text-color: #b1b1b1;  
+}
+
+.line2[data-state="active"] {
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALbSYiwBMuz44ZecKLwAm8J4SW9Nynu0lwGnQpo_v5w&s=10") center/cover no-repeat !important;
+  transition-property: box-shadow, text-shadow, color, border-color !important;
+  --key-border: 3px solid #608b71;
+  --key-text-color: #b1b1b1;  
+}
+
+
+
+/* 평균 kps 그래프 설정값 */
+
+.grap[data-state="inactive"] {
+  background: url("https://pbs.twimg.com/profile_banners/1787769473182879744/1776246664/1080x360") center/cover no-repeat !important;
+  transition-property: box-shadow, text-shadow, color, border-color !important;
+  --key-border: 3px solid #959595;
+  --key-text-color: #000000;
+  text-shadow: 0px 0px 3px #959595;
+  box-shadow: 0px 0px 4px #959595, 0px 0px 4px #959595;
+}
+
+
+
+/* kps 설정값 */
+
+.kps1[data-state="inactive"] {
+  --key-border: 3px solid #959595;
+  --key-text-color: #ffffff;
+  text-shadow: 0px 0px 3px #959595;
+  box-shadow: 0px 0px 4px #959595, 0px 0px 4px #959595;
+}
+
+.kps1 .counter[data-counter-state="inactive"] {
+  --counter-color: #ffffff;
+  text-shadow: 0px 0px 3px #c5c5c5;
+}
+ 
+
+
+/* 카운터 글시 설정값 */
+
+.counter {
+  font-size: 24px;
+  font-weight: 700;
+}
+ 
+.counter[data-counter-state="inactive"] {
+  --counter-color: #6b6b6b;
+}
+ 
+.counter[data-counter-state="active"] {
+  --counter-color: #ffffff;
+  text-shadow: 0px 0px 3px #bbbbbb;
+}

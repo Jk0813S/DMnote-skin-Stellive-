@@ -1,9 +1,8 @@
 
 해당 파일은 Github에서 다운 가능합니다
-
 제작자 허브 : https://github.com/Jk0813S/DMnote-skin-Stellive-
 
-DMnote skin 기본 세팅 (StelLive Tenko Shibuki.ver)
+DMnote skin 기본 세팅 (StelLive Akane Lize.ver)
 
 # 앱 설정
 - "항상 위에 표시" 켜기
@@ -11,7 +10,7 @@ DMnote skin 기본 세팅 (StelLive Tenko Shibuki.ver)
 - "키 카운터 표시" 켜기
 - "커스텀 CSS 활성화" 켜기
 - "JS 플러그인 활성화" 켜기
-나머지 값은 원하는대로
+# 나머지 값은 원하는대로
 
 
 # 기본 세팅 
