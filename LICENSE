@@ -20,6 +20,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
++ Additional details
+Project Purpose: This software is created and distributed as a custom skin for the 'DMnote' application.
+
+Third-Party Assets: All images and visual assets included or linked (via URLs) within this skin are EXCLUDED from this MIT License.
+
+Copyright Ownership: The copyrights for those images remain with their respective original authors. 
+Users who copy, modify, or distribute this skin must not use or redistribute the images for commercial 
+purposes without explicit permission from the original creators. 
+The user assumes all responsibility for any copyright infringement arising from the misuse of these third-party assets.
+
 
 MIT 라이선스
 
@@ -37,3 +47,10 @@ MIT 라이선스
 어떠한 형태의 명시적 또는 묵시적 보증 없이 "있는 그대로" 제공됩니다. 
 어떠한 경우에도 저작자나 저작권자는 소프트웨어 또는 소프트웨어의 사용이나 기타 거래와 관련하여, 
 또는 그로 인해 발생하는 계약, 불법 행위 또는 기타의 소송에서 어떠한 청구, 손해 또는 기타 책임에 대해서도 책임을 지지 않습니다.
+
++ 추가사항
+프로젝트 목적: 본 소프트웨어는 'DMnote' 프로그램의 스킨으로 제작 및 배포되었습니다.
+제3자 저작물: 본 스킨 내에 포함되거나 링크된 형태(URL)로 제공되는 모든 이미지 및 시각적 에셋은 본 라이선스(MIT)의 적용을 받지 않습니다.
+저작권 귀속: 해당 이미지들의 저작권은 각 원작자에게 귀속되어 있습니다. 본 스킨을 복제, 수정, 배포하는 
+사용자는 원작자의 명시적인 허가 없이 해당 이미지들을 무단으로 상업적 이용하거나 재배포할 수 없으며, 
+제3자 저작권 침해로 인해 발생하는 모든 문제에 대한 책임은 사용자 본인에게 있습니다.
