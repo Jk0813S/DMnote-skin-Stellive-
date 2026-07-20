@@ -11,6 +11,7 @@ DMnote skin 기본 세팅 (StelLive Tenko Shibuki.ver)
 - "키 카운터 표시" 켜기
 - "커스텀 CSS 활성화" 켜기
 - "JS 플러그인 활성화" 켜기
+
 나머지 값은 원하는대로
 
 
@@ -23,4 +24,4 @@ DMnote skin 기본 세팅 (StelLive Tenko Shibuki.ver)
 # 이미지 바꾸는법
 - .CSS 파일에서 background 라는 값을 찾아 url 부분의 링크를 수정후 저장 
 
-skin makeing by JINKINYO
+Skin created by JINKINYO
