@@ -1,7 +1,7 @@
 # DMnote skin StelLive
 DMnote에 적용 가능한 스킨 파일입니다
 
-
+- - -
 
 
 ## (수정로그)
@@ -10,9 +10,9 @@ DMnote에 적용 가능한 스킨 파일입니다
 
 기존 멤버별 일러스트 링크가 문제가 될 가능성이 있음을 고려하여
 
-사용자가 직접 꾸밀 수 있게 기본은 아무것도 없는 이미지로 대체하였습니다
+사용자가 직접 꾸밀 수 있게 **기본**은 아무것도 없는 이미지로 대체하였습니다
 
-
+- - -
 
 
 
@@ -27,5 +27,4 @@ DMnote에 적용 가능한 스킨 파일입니다
 - https://Image_Link_Here_BY_GRAPBG
 
 
-공식 DM note
-https://dmnote.app/
+공식 [DM note](https://dmnote.app/)
