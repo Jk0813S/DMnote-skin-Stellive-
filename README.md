@@ -26,4 +26,4 @@ DMnote에 적용 가능한 스킨 파일입니다
 
 - - -
 
-공식 [DM note](https://dmnote.app/)
+공식 DM note [바로가기](https://dmnote.app/)
