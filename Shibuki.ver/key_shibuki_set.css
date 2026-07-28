@@ -50,7 +50,7 @@
 /* background 의 url 값 변경시 이미지 변경 가능 (단 이미지는 주소가 변하지 않는 값이여야 함)*/
 
 .key[data-state="active"] {
-  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_5UzFiSla4IM5_gQ0vxrsRifEFh3ebTH4sfAlvzjUQ&s=10") center/cover no-repeat !important;
+  background: url("https://Image_Link_Here_BY_KEY") center/cover no-repeat !important;
   transition-property: box-shadow, text-shadow, color, border-color !important;
   --key-border: 3px solid #f1a3ff;
   --key-text-color: #df9dfd;
@@ -78,14 +78,14 @@ background: url("") center/cover no-repeat !important;
 /* background 의 url 값 변경시 이미지 변경 가능 (단 이미지는 주소가 변하지 않는 값이여야 함)*/
 
 .line1[data-state="active"] {
-  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRewd9cpXENK8IEx6U3o_1rKXRxuIRCaXwNLcnOtCCN6g&s=10") center/cover no-repeat !important;
+  background: url("https://Image_Link_Here_BY_LINE1") center/cover no-repeat !important;
   transition-property: box-shadow, text-shadow, color, border-color !important;
   --key-border: 3px solid #f1a3ff;
   --key-text-color: #b1b1b1;  
 }
 
 .line2[data-state="active"] {
-  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRewd9cpXENK8IEx6U3o_1rKXRxuIRCaXwNLcnOtCCN6g&s=10") center/cover no-repeat !important;
+  background: url("https://Image_Link_Here_BY_LINE2") center/cover no-repeat !important;
   transition-property: box-shadow, text-shadow, color, border-color !important;
   --key-border: 3px solid #f1a3ff;
   --key-text-color: #b1b1b1;  
@@ -96,7 +96,7 @@ background: url("") center/cover no-repeat !important;
 /* 평균 kps 그래프 설정값 */
 
 .grap[data-state="inactive"] {
-  background: url("https://pbs.twimg.com/profile_banners/1787748745872113664/1774117915/1500x500") center/cover no-repeat !important;
+  background: url("https://Image_Link_Here_BY_GRAPBG") center/cover no-repeat !important;
   transition-property: box-shadow, text-shadow, color, border-color !important;
   --key-border: 3px solid #959595;
   --key-text-color: #000000;
