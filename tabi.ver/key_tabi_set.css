@@ -50,7 +50,7 @@
 /* background 의 url 값 변경시 이미지 변경 가능 (단 이미지는 주소가 변하지 않는 값이여야 함)*/
 
 .key[data-state="active"] {
-  background: url("https://img.tumblbug.com/eyJidWNrZXQiOiJ0dW1ibGJ1Zy1pbWctcHJvZCIsImtleSI6ImNvdmVyLzc0NTk5M2IzLTJmYWUtNDJiOC1hMzg0LThiYzdlN2U2NTNjZC85NzU4ZmMyNy1lYTUzLTQzMmEtOThkNy1mNmM3OGYzZmU2MTIuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6bnVsbH0sInJvdW5kQ3JvcCI6ZmFsc2UsInJvdGF0ZSI6bnVsbH19") center/cover no-repeat !important;
+  background: url("https://Image_Link_Here_BY_KEY") center/cover no-repeat !important;
   transition-property: box-shadow, text-shadow, color, border-color !important;
   --key-border: 3px solid #00aee3;
   --key-text-color: #3fb4fd;
@@ -78,14 +78,14 @@ background: url("") center/cover no-repeat !important;
 /* background 의 url 값 변경시 이미지 변경 가능 (단 이미지는 주소가 변하지 않는 값이여야 함)*/
 
 .line1[data-state="active"] {
-  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZTVNswWBuDrSFaC0cYyLiKVjp3crJvw_AD1Z2gfJ2A9fbpPfWI6BVw3lm&s=10") center/cover no-repeat !important;
+  background: url("https://Image_Link_Here_BY_LINE1") center/cover no-repeat !important;
   transition-property: box-shadow, text-shadow, color, border-color !important;
   --key-border: 3px solid #607b8b;
   --key-text-color: #b1b1b1;  
 }
 
 .line2[data-state="active"] {
-  background: url("https://img.tumblbug.com/eyJidWNrZXQiOiJ0dW1ibGJ1Zy1pbWctcHJvZCIsImtleSI6ImNvdmVyLzQwMjYxYmY5LTIyNGUtNGZmMy05MGVjLWI1YTA3YTM1NjE1MC9kZmQzMmY0OS01NzUwLTQ3ZGItYTliOS01MGI5OWM4NTllNWIucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZSwiZml0IjpudWxsfSwicm91bmRDcm9wIjpmYWxzZSwicm90YXRlIjpudWxsfX0=") center/cover no-repeat !important;
+  background: url("https://Image_Link_Here_BY_LINE2") center/cover no-repeat !important;
   transition-property: box-shadow, text-shadow, color, border-color !important;
   --key-border: 3px solid #607b8b;
   --key-text-color: #b1b1b1;  
@@ -96,7 +96,7 @@ background: url("") center/cover no-repeat !important;
 /* 평균 kps 그래프 설정값 */
 
 .grap[data-state="inactive"] {
-  background: url("https://stellive.me/files/attach/images/2024/12/11/154a6f4fae3eefb5701304dd96bb7b6f.jpg") center/cover no-repeat !important;
+  background: url("https://Image_Link_Here_BY_GRAPBG") center/cover no-repeat !important;
   transition-property: box-shadow, text-shadow, color, border-color !important;
   --key-border: 3px solid #959595;
   --key-text-color: #000000;
