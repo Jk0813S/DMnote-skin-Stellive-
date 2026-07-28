@@ -13,6 +13,9 @@ DMnote에 적용 가능한 스킨 파일입니다
 사용자가 직접 꾸밀 수 있게 기본은 아무것도 없는 이미지로 대체하였습니다
 
 
+
+
+
 아래 링크 부분만 수정하고 저장하면 뜹니다
 
 - https://Image_Link_Here_BY_KEY
@@ -22,3 +25,7 @@ DMnote에 적용 가능한 스킨 파일입니다
 - https://Image_Link_Here_BY_LINE2
 
 - https://Image_Link_Here_BY_GRAPBG
+
+
+공식 DM note
+https://dmnote.app/
